@@ -1,6 +1,5 @@
 # joms
-my repository for computer programming
-changes
+I love
 chicken
 inasal
-chicken oil
+with chicken oil
